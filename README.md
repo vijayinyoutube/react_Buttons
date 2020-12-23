@@ -1,6 +1,6 @@
 ## React Button Styles
 
-A simple react application for styling buttons
+A simple react application for styling buttons and icons
 
 ## Installations 
 
@@ -12,4 +12,4 @@ A simple react application for styling buttons
 
 ### Output/Result 
 
-<img src="https://user-images.githubusercontent.com/58719230/102960472-08863480-4508-11eb-9e22-dad3ee6e660c.png" >
+<img src="https://user-images.githubusercontent.com/58719230/102962121-1f2e8a80-450c-11eb-9dfe-a99a2f1369e3.png" >
