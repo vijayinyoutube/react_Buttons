@@ -1,5 +1,6 @@
 ## React Button Styles
 
+A simple react application for styling buttons
 
 ## Installations 
 
