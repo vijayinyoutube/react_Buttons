@@ -33,8 +33,6 @@ class MyButtonClass extends Component {
                         </Grid>
                     </Grid>
                 </Grid>
-
-
             </div>
         )
     }
